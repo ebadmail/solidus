@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'font-awesome-rails', '~> 4.0'
   s.add_dependency 'jbuilder', '~> 2.6'
   s.add_dependency 'jquery-rails'
-  s.add_dependency 'kaminari', '~> 1.1'
+  s.add_dependency 'kaminari', '~> 1.0.1'
   s.add_dependency 'sassc-rails'
 
   s.add_dependency 'autoprefixer-rails', '~> 9.1.4'
